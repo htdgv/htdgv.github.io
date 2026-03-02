@@ -18,7 +18,6 @@ Contact: vuhoang.thduong@gmail.com / duong.vht@vinuni.edu.vn
 Research Interests
 ======
 - Affective computing
-- Interpretable machine learning
 - Digital phenotyping
 - Computational psychiatry
 - Human-centered AI
